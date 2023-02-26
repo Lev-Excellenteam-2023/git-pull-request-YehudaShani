@@ -1,2 +1,1 @@
-# git-pull-request-YehudaShani
-# here is some more text
+# Here is some more text
